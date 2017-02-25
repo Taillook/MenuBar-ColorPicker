@@ -1,0 +1,15 @@
+{
+  "name": "Menu-colorpicker",
+  "version": "1.0.0",
+  "description": "Menu-colorpicker",
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager . Example --platform=darwin --arch=x64 --version=1.4.13 --icon=icon.icns",
+    "start": "electron ."
+  },
+  "author": "Taillook",
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^5.2.3"
+  }
+}
