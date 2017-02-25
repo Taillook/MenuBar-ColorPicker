@@ -1,4 +1,4 @@
-# Menu-ColorPicker
+# MenuBar-ColorPicker
 ColorPicker on Menubar application with electron  
 [Electronでmacのメニューバーにカラーピッカーを作る - TaillookTech](http://taillook.hateblo.jp/entry/2017/02/24/204255)
 
